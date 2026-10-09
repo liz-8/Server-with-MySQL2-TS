@@ -5,7 +5,7 @@ import {
   create,
   update,
   remove,
-  changePrice
+  changePrice,
 } from "../controllers/products.controller";
 
 const router = Router();
